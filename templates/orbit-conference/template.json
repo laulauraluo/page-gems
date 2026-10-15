@@ -1,0 +1,25 @@
+{
+  "id": "orbit-conference",
+  "name": "Orbit conference",
+  "description": "An original responsive event homepage with editorial typography and green geometric artwork.",
+  "entry": "index.html",
+  "category": "conference",
+  "stack": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "runtimeDependencies": [],
+  "features": [
+    "responsive-navigation",
+    "countdown",
+    "agenda-tabs",
+    "attendance-tabs",
+    "demo-dialog",
+    "native-faq"
+  ],
+  "contentStatus": "fictional-demo",
+  "inspiration": "https://githubuniverse.com/",
+  "licenseStatus": "not-selected",
+  "preview": "preview.jpg"
+}
